@@ -1,5 +1,3 @@
-# sql-data-investigation
-SQL examples and investigation techniques for troubleshooting data-related application issues.
 # SQL Data Investigation
 
 A collection of practical SQL examples and investigation techniques for identifying and troubleshooting data-related issues.
